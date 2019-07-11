@@ -1,0 +1,17 @@
+.main {
+position: relative;
+width: 219px;
+height: 257px;
+border: solid 1px gray;
+}
+
+.ribon {
+  position: absolute;
+  bottom: 50px;
+  left: 150px;
+}
+
+.chica {
+  width: 60px;
+  height: 60px;
+}

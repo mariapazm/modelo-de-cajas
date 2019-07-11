@@ -1,0 +1,11 @@
+.main {
+  position: relative;
+  border: solid 1px gray;
+  width: 245px;
+  height: 285px;
+  }
+
+  .ribon {
+    position: relative;
+    bottom: 290px;
+  }
